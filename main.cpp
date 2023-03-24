@@ -1,5 +1,4 @@
 //adam plankey
-//chat GPT used for debugging*
 #include <iostream>
 #include "Student.h"
 
